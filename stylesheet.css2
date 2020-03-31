@@ -1,0 +1,9 @@
+.title {
+  color: #02ccba;
+}
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  background-image: url(IMG_2803.JPG/images/html/advanced/top.png);
+  background-size: cover;
+  color: white;
+}
